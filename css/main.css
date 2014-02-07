@@ -1,0 +1,13 @@
+.backgroundOdd {
+	height: 800px;
+	background-color: #6f5499;
+	color: #ffffff;
+	padding-top: 50px;
+}
+
+.backgroundEven {
+	height: 800px;
+	background-color: #402817;
+	color: #ffffff;
+	padding-top: 50px;
+}
